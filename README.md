@@ -1,2 +1,4 @@
 My codes.  
-You can view <https://www.luogu.com.cn/blog/fjy-blog/2022-may> to see more details.
+I will update this repository every one or two weeks.  
+This repository contains every code I`ve written so far.  
+Due to github access problems, there may be some latency.
